@@ -1,3 +1,3 @@
 # CalculatorXcode-Project
 
-Simple Swift Calculator Practics
+Simple Swift Calculator Practice
